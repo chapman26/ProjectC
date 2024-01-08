@@ -17,4 +17,5 @@ public class DemoC {
 	//Coming from GitHUB
 	public static void subtract(int a, int b) {
 		System.out.println(a - b);
+	}
 }
